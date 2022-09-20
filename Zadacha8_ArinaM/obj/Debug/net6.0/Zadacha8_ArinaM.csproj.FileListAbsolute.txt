@@ -1,0 +1,15 @@
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.csproj.AssemblyReference.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.AssemblyInfoInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.AssemblyInfo.cs
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.csproj.CoreCompileInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\bin\Debug\net6.0\Zadacha8_ArinaM.exe
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\bin\Debug\net6.0\Zadacha8_ArinaM.deps.json
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\bin\Debug\net6.0\Zadacha8_ArinaM.runtimeconfig.json
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\bin\Debug\net6.0\Zadacha8_ArinaM.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\bin\Debug\net6.0\Zadacha8_ArinaM.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\refint\Zadacha8_ArinaM.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\Zadacha8_ArinaM.genruntimeconfig.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ4_ArinaM\Zadacha8_ArinaM\obj\Debug\net6.0\ref\Zadacha8_ArinaM.dll
